@@ -1,0 +1,22 @@
+body {
+  background-color: #005e54;
+}
+section {
+  padding: 50px;
+  background-color: hsl(58, 100%, 38%);
+  color: hsl(195, 100%, 14%);
+  width: 50%;
+  height: 500px;
+  text-wrap: balance;
+  text-transform: capitalize;
+  text-align: center;
+  line-height: 2;
+}
+p {
+  font-size: 22px;
+}
+strong {
+  color: hsla(197, 93%, 56%, 0.9);
+  font-weight: bolder;
+  font-style: italic;
+}
